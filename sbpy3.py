@@ -75,12 +75,6 @@ helpMessage =""" ༺༽།☤ⵓః•LIβΣRΔTI⌬Π•ఃⵓ☤།༼༻
 ║♪「 Mode:self」
 ║♪「 Mode:public」
 ╰════════╬♥╬════════╯
-╭════════╬♥╬════════╮
-          🔪JANGAN ADA TYPO 🔪
-╰════════╬♥╬════════╯
-╭════════╬♥╬════════╮
-     http://line.me/ti/p/KTS6MCiOZe
-╰════════╬♥╬════════╯
 """
 
 poll = LinePoll(client)
